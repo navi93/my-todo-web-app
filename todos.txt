@@ -1,0 +1,5 @@
+make an app
+try to do a nice touch up to the app
+make a desktop gui
+transfer the app as a new web app
+install streamlit
